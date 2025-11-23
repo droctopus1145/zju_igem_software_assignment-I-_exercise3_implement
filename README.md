@@ -4,9 +4,7 @@ It's a LLM-drived biological sequence analyzer / editor , integrate ProtBERT to 
 
 Here is a display video:
 
-<video width="320" height="240" align="center" controls>
-   <source src="./image/display.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/b677e86d-624a-4a9b-9002-dedaf7b6db87
 
 <h2>Prerequisites</h2>
 
@@ -39,6 +37,6 @@ git clone https://github.com/droctopus1145/zju_igem_software_assignment-I-_exerc
 python main.py
 ```
 
-4. to use the ProtBERT , **remember to add a [MASK] tag into the place you want to complete , see the detailed operation in the video
+4. to use the ProtBERT , **remember to add a [MASK] tag into the place you want to complete** , see the detailed operation in the video
 
 5. enjoy your using
