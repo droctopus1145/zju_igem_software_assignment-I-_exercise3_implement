@@ -4,7 +4,7 @@ It's a LLM-drived biological sequence analyzer / editor , integrate ProtBERT to 
 
 Here is a display video:
 
-https://github.com/user-attachments/assets/b677e86d-624a-4a9b-9002-dedaf7b6db87
+https://github.com/user-attachments/assets/fcb43490-26de-489d-a6e8-cc0adbbd0a46
 
 <h2>Prerequisites</h2>
 
